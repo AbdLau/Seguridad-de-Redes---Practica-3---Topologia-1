@@ -144,4 +144,4 @@ Los comandos de configuración de IP de los equipos finales están en [`scripts/
 
 ## Running-configs
 
-Pendiente: `configs/switch1_running.txt`, `configs/switch2_running.txt` y `configs/fortigate_backup.conf`.
+Los comandos de configuración de IP de los equipos finales están en [`configs`](configs).
