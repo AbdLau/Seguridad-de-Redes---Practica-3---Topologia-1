@@ -1,6 +1,4 @@
 #!/bin/sh
-# Configuración de IP para equipos finales (contenedores Docker) - Infraestructura 1
-# Uso: sh ip_equipos.sh <user1-1|user1-2|webserver|inventario|db>
 
 ROL="$1"
 
