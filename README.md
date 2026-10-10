@@ -2,7 +2,7 @@
 
 ## Video demostrativo
 
-[Ver video en YouTube](ENLACE_DEL_VIDEO)
+[Ver video en YouTube](https://www.youtube.com/watch?v=j444FvV504I)
 
 ## Propósito del laboratorio
 
