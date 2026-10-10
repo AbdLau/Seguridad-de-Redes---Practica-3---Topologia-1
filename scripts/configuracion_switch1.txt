@@ -1,0 +1,18 @@
+enable
+configure terminal
+vlan 10
+ name USUARIOS_VLAN10
+vlan 20
+ name USUARIOS_VLAN20
+exit
+interface GigabitEthernet0/1
+ switchport mode access
+ switchport access vlan 10
+interface GigabitEthernet0/2
+ switchport mode access
+ switchport access vlan 20
+interface GigabitEthernet0/0
+ switchport trunk encapsulation dot1q
+ switchport mode trunk
+end
+write memory
