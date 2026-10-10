@@ -131,7 +131,6 @@ VLAN 10 hacia la DMZ (ping, SSH y curl):
 
 ![Log VLAN10 1](imagenes/18_log_vlan10_dmz.png)
 
-![Log VLAN10 2](imagenes/19_log_vlan10_dmz_2.png)
 
 DMZ hacia LAN e Internet:
 
