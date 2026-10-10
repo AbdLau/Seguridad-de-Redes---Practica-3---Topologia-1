@@ -140,7 +140,7 @@ DMZ hacia LAN e Internet:
 
 ## Scripts
 
-Los comandos de configuración de IP de los equipos finales están en [`scripts/ip_equipos.sh`](scripts/ip_equipos.sh).
+Los comandos de configuración de IP de los equipos finales y otros scripts están en [`scripts/ip_equipos.sh`](scripts).
 
 ## Running-configs
 
